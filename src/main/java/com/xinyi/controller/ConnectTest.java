@@ -14,6 +14,12 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 功能说明: greenplum数据接口测试
+ * author: defu.du
+ * date: 2019/08/05 09:44:30
+ *
+ */
 @Controller
 public class ConnectTest {
 
