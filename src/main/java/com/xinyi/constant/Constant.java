@@ -8,7 +8,7 @@ import java.util.Properties;
  * 功能说明: GreenPlum 相关配置
  * author: defu.du
  * date: 2019/08/05 09:44:30
- * Copyright (C)1997-2019 深圳信义科技 All rights reserved.
+ *
  */
 public class Constant {
 
